@@ -1,2 +1,3 @@
-hello, thsi is my first file that 
-i upload on github from git.
+hello, thsi is my first file that i upload on github from git. and later 
+from nano command and changed something in that existing file and also 
+commit and upload on github secound time
